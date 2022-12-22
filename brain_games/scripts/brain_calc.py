@@ -2,6 +2,7 @@
 from brain_games.games_engine import start
 from brain_games.games import calc
 
+
 def main():
     start(calc)
 
