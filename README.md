@@ -30,3 +30,5 @@ python3 -m pip install dist/*.whl
 ### asciinema
 
 #### brain-even
+
+https://asciinema.org/a/547487
