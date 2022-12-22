@@ -4,20 +4,18 @@
 
 
 ### Requirements
-
 Python 3.10 or above
 
 ### Installation
 Use following commands for installing:
 
-```
-poetry install
-poetry build
-python3 -m pip install dist/*.whl
-```
+
+	poetry install
+	poetry build
+	python3 -m pip install dist/*.whl
 
 
-================================================================================
+===========================================================================
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Julian6262/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/Julian6262/python-project-49/actions)
@@ -29,6 +27,4 @@ python3 -m pip install dist/*.whl
 
 ### asciinema
 
-#### brain-even
-
-https://asciinema.org/a/547487
+#### brain-even [![asciicast](https://asciinema.org/a/547487.svg)](https://asciinema.org/a/547487)
