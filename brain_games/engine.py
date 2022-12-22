@@ -1,14 +1,13 @@
 from brain_games.greet import welcome_user
-from brain_games.games import even
 from prompt import string
 
 
-def start():
+def start(game):
     name = welcome_user()
-    print(even.main_question)
+    print(game.main_question)
     number_of_rounds = 3
     for _ in range(number_of_rounds):
-        question, correct_answer = even.even()
+        question, correct_answer = game.run()
         print(f"Question: {question}")
         answer = string('Your answer: ')
         if answer == correct_answer:
