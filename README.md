@@ -11,7 +11,7 @@ Use following commands for installing:
 	poetry build
 	python3 -m pip install dist/*.whl
 
-## `Usage`
+### Usage
 * Even number: `brain-even`
 * Calculate the expression: `brain-calc`
 * Greatest common divisor: `brain-gcd`
