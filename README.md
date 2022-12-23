@@ -28,3 +28,7 @@ Use following commands for installing:
 ### asciinema
 
 #### brain-even [![asciicast](https://asciinema.org/a/547487.svg)](https://asciinema.org/a/547487)
+
+#### brain-calc [![asciicast](https://asciinema.org/a/547564.svg)](https://asciinema.org/a/547564)
+
+#### brain-gcd [![asciicast](https://asciinema.org/a/547565.svg)](https://asciinema.org/a/547565)
