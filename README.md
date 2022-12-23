@@ -32,3 +32,5 @@ Use following commands for installing:
 #### brain-calc [![asciicast](https://asciinema.org/a/547564.svg)](https://asciinema.org/a/547564)
 
 #### brain-gcd [![asciicast](https://asciinema.org/a/547565.svg)](https://asciinema.org/a/547565)
+
+#### brain-progression [![asciicast](https://asciinema.org/a/547609.svg)](https://asciinema.org/a/547609)
