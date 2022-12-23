@@ -1,7 +1,5 @@
 # Brain games
-
-..........description.........
-
+Hi! This project includes five mathematical games that will help keep your mind in good shape. Enjoy )
 
 ### Requirements
 Python 3.10 or above
@@ -9,10 +7,16 @@ Python 3.10 or above
 ### Installation
 Use following commands for installing:
 
-
 	poetry install
 	poetry build
 	python3 -m pip install dist/*.whl
+
+## `Usage`
+* Even number: `brain-even`
+* Calculate the expression: `brain-calc`
+* Greatest common divisor: `brain-gcd`
+* Guess missing number: `brain-progression`
+* Prime number: `brain-prime`
 
 
 ===========================================================================
